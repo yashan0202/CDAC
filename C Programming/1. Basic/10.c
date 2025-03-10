@@ -1,4 +1,4 @@
-// Compute area and Perimeter of Rectangle
+// Compute Area and Perimeter of Rectangle
 
 #include <stdio.h>
 
