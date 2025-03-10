@@ -8,9 +8,9 @@ int main() {
     scanf(" %c", &ch);
 
     if (ch >= 'A' && ch <= 'Z')
-        ch = ch + 32;  // Convert to lowercase
+        ch = ch + 32; 
     else if (ch >= 'a' && ch <= 'z')
-        ch = ch - 32;  // Convert to uppercase
+        ch = ch - 32;  
 
     printf("Inverted case: %c\n", ch);
     return 0;
